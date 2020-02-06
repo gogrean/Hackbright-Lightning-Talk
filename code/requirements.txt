@@ -1,0 +1,5 @@
+bokeh==0.13.0
+matplotlib==3.0.0
+geopy==1.21.0
+pandas==0.22.0
+PyYAML==5.3
